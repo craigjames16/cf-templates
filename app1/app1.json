@@ -1,0 +1,12 @@
+[
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue":"t2.nano",
+        "UsePreviousValue":false
+    },
+    {
+        "ParameterKey": "SGGroupName",
+        "ParameterValue":"App1SG",
+        "UsePreviousValue":false
+    }
+]
